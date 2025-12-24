@@ -1,6 +1,3 @@
-[submodule "android"]
-	path = android
-	url = https://github.com/lilrain628/android.git
 [submodule "examples"]
 	path = examples
 	url = https://github.com/lilrain628/android.git
